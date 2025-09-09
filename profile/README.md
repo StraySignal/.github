@@ -13,7 +13,7 @@ I work out of Vancouver, BC, mostly doing infrastructure work: M365, Azure AD, V
 - Self-hosting and helpers
 - Small scripts or helpers (e.g. [fediverse-radar](https://github.com/StraySignal/fediverse-radar), a CLI for sorting your social graph)
 
-Most repos are solo-built, not polished products; they’re made for my own use but may help others in similar roles.
+Most repos are solo-built; they’re made for my own use but may help others.
 
 ## Philosophy
 
